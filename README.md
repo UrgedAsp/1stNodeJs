@@ -1,3 +1,3 @@
 # 1stNodeJs
 Primera pagina con NodeJs
-<img src="./src/public/img/1stNode.PNG">
+<img src="./1stNode.PNG">
